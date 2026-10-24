@@ -1,0 +1,5 @@
+Notas sobre GitHub:
+- git add: Adiciona ficheiros ao staging area.
+- git commit: Guarda as alterações localmente.
+- git push: Envia as alterações para o repositório remoto.
+- Branch: Permite trabalhar em versões paralelas do projeto.
